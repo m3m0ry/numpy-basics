@@ -8,7 +8,7 @@ This repository contains the code/slides for [HPC-Cafe](https://hpc.fau.de/syste
 - venv
 
 ## Setup
-- `python -m venv venv`
+- `python3 -m venv venv`
 - `. ./venv/bin/activate`
 - `pip install -r requirements.txt`
 
